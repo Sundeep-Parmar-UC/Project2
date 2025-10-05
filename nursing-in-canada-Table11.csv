@@ -1,0 +1,335 @@
+Type of professional,Province/territory,Health region,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+Nurse practitioners,Newfoundland and Labrador,Newfoundland and Labrador (regional integrated health authorities) (total),125,137,151,153,171,180,194,218,246,264
+Nurse practitioners,Newfoundland and Labrador,Eastern-Urban Zone,57,60,67,67,71,79,91,105,132,157
+Nurse practitioners,Newfoundland and Labrador,Eastern-Rural Zone,12,14,15,18,23,25,25,28,26,25
+Nurse practitioners,Newfoundland and Labrador,Central Zone,25,26,28,33,32,30,34,39,36,35
+Nurse practitioners,Newfoundland and Labrador,Western Zone,13,16,20,19,22,23,26,27,30,26
+Nurse practitioners,Newfoundland and Labrador,Labrador-Grenfell Zone,18,21,21,16,23,20,15,16,18,17
+Nurse practitioners,Newfoundland and Labrador,Other*,0,0,0,0,0,3,3,3,4,4
+Nurse practitioners,Prince Edward Island,Prince Edward Island (total),13,21,23,26,36,42,,54,64,
+Nurse practitioners,Prince Edward Island,Health PEI,13,21,23,26,36,42,,54,64,
+Nurse practitioners,Nova Scotia,Nova Scotia (district health authorities) (total),138,134,149,165,192,199,221,251,295,
+Nurse practitioners,Nova Scotia,Western Zone,32,34,35,34,40,40,43,48,,
+Nurse practitioners,Nova Scotia,Northern Zone,13,12,13,16,23,24,27,35,,
+Nurse practitioners,Nova Scotia,Eastern Zone,20,20,24,26,28,27,43,42,,
+Nurse practitioners,Nova Scotia,Central Zone,71,68,77,89,100,105,104,124,,
+Nurse practitioners,Nova Scotia,Other*,2,0,0,0,1,3,4,2,,
+Nurse practitioners,New Brunswick,New Brunswick (total),100,107,113,121,130,139,146,158,171,211
+Nurse practitioners,New Brunswick,Zone 1 (Moncton Area),27,29,29,32,31,40,42,43,44,49
+Nurse practitioners,New Brunswick,Zone 2 (Saint John Area),29,31,31,30,29,31,32,41,29,31
+Nurse practitioners,New Brunswick,Zone 3 (Fredericton Area),22,25,26,30,36,36,34,39,56,85
+Nurse practitioners,New Brunswick,Zone 4 (Edmundston Area),4,5,6,6,7,6,7,8,7,7
+Nurse practitioners,New Brunswick,Zone 5 (Campbellton Area),6,4,6,6,7,8,8,9,11,13
+Nurse practitioners,New Brunswick,Zone 6 (Bathurst Area),10,9,11,12,14,11,12,12,14,16
+Nurse practitioners,New Brunswick,Zone 7 (Miramichi Area),2,4,4,5,6,7,8,6,4,6
+Nurse practitioners,New Brunswick,Other*,0,0,0,0,0,0,3,0,6,4
+Nurse practitioners,Quebec,Quebec (health regions) (total),297,370,420,481,519,655,910,1133,1341,1540
+Nurse practitioners,Quebec,Bas-Saint-Laurent Region,6,4,7,10,9,8,12,15,17,25
+Nurse practitioners,Quebec,Saguenay-Lac-Saint-Jean Region,7,6,8,12,14,13,19,22,37,44
+Nurse practitioners,Quebec,Capitale-Nationale Region,33,38,45,44,51,69,99,127,145,158
+Nurse practitioners,Quebec,Mauricie et Centre-du-Quebec Region,25,33,34,38,41,48,59,80,93,103
+Nurse practitioners,Quebec,Estrie Region,20,26,31,36,35,42,52,61,67,81
+Nurse practitioners,Quebec,Montreal Region,80,106,113,135,149,200,287,362,439,458
+Nurse practitioners,Quebec,Outaouais Region,13,15,16,19,20,26,36,38,48,52
+Nurse practitioners,Quebec,Abitibi-Temiscamingue Region,8,10,12,14,15,16,25,27,30,26
+Nurse practitioners,Quebec,Cote-Nord Region,2,2,3,3,4,6,6,6,8,11
+Nurse practitioners,Quebec,Nord-du-Quebec Region,1,1,1,1,1,1,1,2,3,3
+Nurse practitioners,Quebec,Gaspesie-Iles-de-la-Madeleine Region,4,5,5,7,10,11,12,13,16,17
+Nurse practitioners,Quebec,Chaudiere-Appalaches Region,16,17,17,18,19,32,40,52,52,59
+Nurse practitioners,Quebec,Laval Region,7,9,12,13,13,24,30,45,53,63
+Nurse practitioners,Quebec,Lanaudiere Region,22,30,34,36,35,44,57,58,68,90
+Nurse practitioners,Quebec,Laurentides Region,21,27,26,28,31,36,53,68,85,94
+Nurse practitioners,Quebec,Monteregie Region,30,40,53,64,71,79,122,154,177,203
+Nurse practitioners,Quebec,Nunavik Region,0,0,1,1,0,0,0,3,3,4
+Nurse practitioners,Quebec,Terres-Cries-de-la-Baie-James Region,1,1,2,2,1,0,0,0,0,2
+Nurse practitioners,Quebec,Other*,1,0,0,0,0,0,0,0,0,47
+Nurse practitioners,Ontario,Ontario (health regions) (total),2354,2576,2792,2949,3185,3333,3544,3797,4060,4375
+Nurse practitioners,Ontario,West Region,732,795,871,924,987,1031,1097,1159,1218,1299
+Nurse practitioners,Ontario,Central Region,302,331,351,384,435,461,488,546,596,651
+Nurse practitioners,Ontario,Toronto Region,534,606,665,704,766,815,875,932,1009,1090
+Nurse practitioners,Ontario,East Region,473,512,553,579,621,641,687,735,786,851
+Nurse practitioners,Ontario,North East Region,213,211,217,221,223,232,245,257,269,284
+Nurse practitioners,Ontario,North West Region,100,119,132,137,151,151,150,168,182,200
+Nurse practitioners,Ontario,Other*,0,2,3,0,2,2,2,0,0,0
+Nurse practitioners,Manitoba,Manitoba (regional health authorities) (total),126,138,153,167,,,,,,
+Nurse practitioners,Manitoba,Winnipeg-Churchill Health Region,79,86,95,104,,,,,,
+Nurse practitioners,Manitoba,Prairie Mountain Health Region,14,17,17,21,,,,,,
+Nurse practitioners,Manitoba,Interlake-Eastern Health Region,15,14,18,19,,,,,,
+Nurse practitioners,Manitoba,Northern Health Region,6,7,5,5,,,,,,
+Nurse practitioners,Manitoba,Southern Health Region,12,14,18,18,,,,,,
+Nurse practitioners,Manitoba,Other*,0,0,0,0,,,,,,
+Nurse practitioners,Saskatchewan,Saskatchewan (regional health authorities) (total),157,175,189,194,225,196,209,236,244,226
+Nurse practitioners,Saskatchewan,Far North Zone,15,14,14,14,22,19,19,19,18,16
+Nurse practitioners,Saskatchewan,North Central West Zone,17,20,23,23,22,18,16,20,19,18
+Nurse practitioners,Saskatchewan,North Central East Zone,28,32,35,39,45,29,33,36,37,35
+Nurse practitioners,Saskatchewan,Saskatoon Zone,29,34,33,36,40,49,51,51,64,63
+Nurse practitioners,Saskatchewan,South West Zone,25,27,26,25,30,22,22,25,29,23
+Nurse practitioners,Saskatchewan,South East Zone,27,28,32,33,37,31,33,37,40,35
+Nurse practitioners,Saskatchewan,Regina Zone,16,20,26,24,29,28,35,47,37,36
+Nurse practitioners,Saskatchewan,Other*,0,0,0,0,0,0,0,1,0,0
+Nurse practitioners,Alberta,Alberta (regional health authorities) (total),320,398,424,475,530,549,573,581,640,
+Nurse practitioners,Alberta,South Zone,7,9,10,13,14,18,18,19,24,
+Nurse practitioners,Alberta,Calgary Zone,100,143,158,173,191,202,201,206,241,
+Nurse practitioners,Alberta,Central Zone,3,11,14,17,21,21,24,30,34,
+Nurse practitioners,Alberta,Edmonton Zone,197,204,218,239,271,271,292,285,302,
+Nurse practitioners,Alberta,North Zone,12,26,24,33,33,37,38,40,39,
+Nurse practitioners,Alberta,Other*,1,5,0,0,0,0,0,1,0,
+Nurse practitioners,British Columbia,British Columbia (health service delivery areas) (total),202,224,309,343,420,485,577,665,764,861
+Nurse practitioners,British Columbia,East Kootenay HSDA,4,1,5,4,4,4,5,8,9,9
+Nurse practitioners,British Columbia,Kootenay-Boundary HSDA,5,2,5,6,9,10,11,10,13,13
+Nurse practitioners,British Columbia,Okanagan HSDA,13,13,23,31,30,37,50,52,66,67
+Nurse practitioners,British Columbia,Thompson/Cariboo HSDA,9,12,22,21,24,23,27,30,32,35
+Nurse practitioners,British Columbia,Fraser East HSDA,8,9,18,17,30,33,35,42,43,43
+Nurse practitioners,British Columbia,Fraser North HSDA,19,19,23,32,26,41,51,62,76,87
+Nurse practitioners,British Columbia,Fraser South HSDA,17,23,30,30,44,52,57,63,63,73
+Nurse practitioners,British Columbia,Richmond HSDA,0,1,1,1,2,3,4,10,11,18
+Nurse practitioners,British Columbia,Vancouver HSDA,69,83,94,106,121,137,179,185,219,252
+Nurse practitioners,British Columbia,North Shore/Coast Garibaldi HSDA,5,9,10,14,20,24,21,29,37,51
+Nurse practitioners,British Columbia,South Vancouver Island HSDA,16,14,28,25,32,44,45,60,75,84
+Nurse practitioners,British Columbia,Central Vancouver Island HSDA,8,9,15,24,27,26,38,45,51,52
+Nurse practitioners,British Columbia,North Vancouver Island HSDA,9,11,11,10,13,14,12,18,19,27
+Nurse practitioners,British Columbia,Northwest HSDA,3,2,4,2,7,9,11,14,18,14
+Nurse practitioners,British Columbia,Northern Interior HSDA,15,11,14,20,27,20,22,27,24,28
+Nurse practitioners,British Columbia,Northeast HSDA,2,4,4,0,3,5,5,4,6,7
+Nurse practitioners,British Columbia,Other*,0,1,2,0,1,3,4,6,2,1
+Nurse practitioners,Yukon,Yukon (total),3,4,6,7,10,14,22,20,16,
+Nurse practitioners,Northwest Territories/Nunavut,Northwest Territories/Nunavut (total),39,32,46,44,38,40,45,,,
+Nurse practitioners,Jurisdictions with available data,Jurisdictions with available data (total),3874,4316,4775,5125,5456,5832,6441,7113,7841,7477
+Registered nurses,Newfoundland and Labrador,Newfoundland and Labrador (regional integrated health authorities) (total),5312,5268,5253,5141,5089,5119,5188,5183,5240,5412
+Registered nurses,Newfoundland and Labrador,Eastern-Urban Zone,2901,2886,2834,2775,2765,2787,2837,2878,2932,3091
+Registered nurses,Newfoundland and Labrador,Eastern-Rural Zone,612,596,611,613,595,601,603,591,589,569
+Registered nurses,Newfoundland and Labrador,Central Zone,672,686,706,684,671,662,685,650,652,656
+Registered nurses,Newfoundland and Labrador,Western Zone,779,772,758,737,734,721,733,727,731,737
+Registered nurses,Newfoundland and Labrador,Labrador-Grenfell Zone,347,327,344,332,322,325,303,309,300,323
+Registered nurses,Newfoundland and Labrador,Other*,1,1,0,0,2,23,27,28,36,36
+Registered nurses,Prince Edward Island,Prince Edward Island (total),1336,1318,1348,1357,1404,1398,,,1596,
+Registered nurses,Prince Edward Island,Health PEI,1336,1318,1348,1357,1404,1398,,,1596,
+Registered nurses,Nova Scotia,Nova Scotia (district health authorities) (total),8228,8206,8205,8129,8198,8441,8672,8820,9050,
+Registered nurses,Nova Scotia,Western Zone,1289,1258,1259,1251,1268,1319,1355,1371,844,
+Registered nurses,Nova Scotia,Northern Zone,1041,1006,1000,986,981,1006,1046,1058,617,
+Registered nurses,Nova Scotia,Eastern Zone,1710,1702,1696,1688,1703,1714,1727,1738,1030,
+Registered nurses,Nova Scotia,Central Zone,4125,4170,4214,4172,4203,4352,4475,4604,5335,
+Registered nurses,Nova Scotia,Other*,63,70,36,32,43,50,69,49,1224,
+Registered nurses,New Brunswick,New Brunswick (total),6935,6858,6881,6844,6925,6912,6794,6687,5998,7058
+Registered nurses,New Brunswick,Zone 1 (Moncton Area),1966,1966,1976,1973,1995,2021,1968,1916,1683,2079
+Registered nurses,New Brunswick,Zone 2 (Saint John Area),1707,1685,1679,1681,1691,1699,1667,1646,1413,1582
+Registered nurses,New Brunswick,Zone 3 (Fredericton Area),1306,1274,1315,1313,1356,1346,1352,1349,1207,1393
+Registered nurses,New Brunswick,Zone 4 (Edmundston Area),486,485,481,482,475,456,451,464,383,447
+Registered nurses,New Brunswick,Zone 5 (Campbellton Area),380,362,351,338,335,324,305,292,227,270
+Registered nurses,New Brunswick,Zone 6 (Bathurst Area),707,702,696,679,688,693,680,668,606,689
+Registered nurses,New Brunswick,Zone 7 (Miramichi Area),383,382,383,378,384,373,365,352,286,374
+Registered nurses,New Brunswick,Other*,0,2,0,0,1,0,6,0,193,224
+Registered nurses,Quebec,Quebec (health regions) (total),59746,59919,60439,61591,61585,61812,64079,64631,66019,66598
+Registered nurses,Quebec,Bas-Saint-Laurent Region,1658,1642,1599,1574,1549,1544,1561,1567,1609,1584
+Registered nurses,Quebec,Saguenay-Lac-Saint-Jean Region,2332,2328,2309,2331,2339,2314,2339,2336,2380,2396
+Registered nurses,Quebec,Capitale-Nationale Region,7914,7897,7948,8021,7998,8034,8200,8144,8257,8393
+Registered nurses,Quebec,Mauricie et Centre-du-Quebec Region,3522,3516,3550,3546,3558,3550,3608,3600,3714,3658
+Registered nurses,Quebec,Estrie Region,3477,3540,3573,3587,3611,3658,3768,3743,3888,3924
+Registered nurses,Quebec,Montreal Region,19625,19585,19720,20369,20521,20585,21368,21553,21582,21952
+Registered nurses,Quebec,Outaouais Region,1890,1896,1926,1964,1919,1954,1984,1967,1976,1957
+Registered nurses,Quebec,Abitibi-Temiscamingue Region,1135,1121,1114,1126,1073,1080,1107,1106,1153,1170
+Registered nurses,Quebec,Cote-Nord Region,776,784,786,773,738,720,742,731,732,745
+Registered nurses,Quebec,Nord-du-Quebec Region,142,148,140,129,129,125,131,129,122,124
+Registered nurses,Quebec,Gaspesie-Iles-de-la-Madeleine Region,822,828,820,813,786,792,808,823,885,867
+Registered nurses,Quebec,Chaudiere-Appalaches Region,2427,2433,2426,2472,2463,2450,2502,2572,2605,2578
+Registered nurses,Quebec,Laval Region,1928,2120,2220,2269,2168,2301,2524,2614,2772,2831
+Registered nurses,Quebec,Lanaudiere Region,2352,2303,2319,2376,2405,2360,2442,2477,2585,2664
+Registered nurses,Quebec,Laurentides Region,2890,2903,2958,3001,3014,3030,3305,3402,3506,3550
+Registered nurses,Quebec,Monteregie Region,6448,6501,6657,6848,6917,6908,7222,7379,7554,7598
+Registered nurses,Quebec,Nunavik Region,194,202,190,205,202,205,243,261,262,271
+Registered nurses,Quebec,Terres-Cries-de-la-Baie-James Region,157,171,184,187,195,202,225,224,229,250
+Registered nurses,Quebec,Other*,57,1,0,0,0,0,0,3,208,86
+Registered nurses,Ontario,Ontario (health regions) (total),86757,86666,86246,86636,88380,88752,89915,90692,92238,96715
+Registered nurses,Ontario,West Region,25461,25225,24810,24877,25228,25240,25437,25503,25767,27059
+Registered nurses,Ontario,Central Region,13960,14203,14343,14562,15137,15306,15669,16075,17051,18138
+Registered nurses,Ontario,Toronto Region,21947,22026,22022,22074,22556,22631,22905,23063,23441,24656
+Registered nurses,Ontario,East Region,18278,18199,18085,18182,18460,18498,18771,18874,18908,19510
+Registered nurses,Ontario,North East Region,4769,4685,4693,4648,4635,4669,4712,4791,4701,4868
+Registered nurses,Ontario,North West Region,2332,2301,2272,2290,2349,2390,2402,2368,2353,2466
+Registered nurses,Ontario,Other*,10,27,21,3,15,18,19,18,17,18
+Registered nurses,Manitoba,Manitoba (regional health authorities) (total),9760,9826,10733,10173,,,,,,
+Registered nurses,Manitoba,Winnipeg-Churchill Health Region,6200,6224,6778,6447,,,,,,
+Registered nurses,Manitoba,Prairie Mountain Health Region,1149,1137,1227,1140,,,,,,
+Registered nurses,Manitoba,Interlake-Eastern Health Region,916,909,1004,974,,,,,,
+Registered nurses,Manitoba,Northern Health Region,355,369,414,394,,,,,,
+Registered nurses,Manitoba,Southern Health Region,1135,1186,1296,1215,,,,,,
+Registered nurses,Manitoba,Other*,5,1,14,3,,,,,,
+Registered nurses,Saskatchewan,Saskatchewan (regional health authorities) (total),9030,9211,9350,9458,9770,9688,9870,10095,10252,10465
+Registered nurses,Saskatchewan,Far North Zone,114,129,143,130,134,144,150,144,137,136
+Registered nurses,Saskatchewan,North Central West Zone,641,621,625,640,646,627,612,603,596,591
+Registered nurses,Saskatchewan,North Central East Zone,780,800,810,870,887,865,866,871,867,846
+Registered nurses,Saskatchewan,Saskatoon Zone,3110,3283,3335,3368,3496,3667,3861,3994,4295,4548
+Registered nurses,Saskatchewan,South West Zone,836,850,856,848,869,810,789,788,774,773
+Registered nurses,Saskatchewan,South East Zone,1090,1070,1090,1109,1143,1053,1052,1045,1029,1058
+Registered nurses,Saskatchewan,Regina Zone,2449,2445,2485,2490,2586,2522,2538,2641,2542,2490
+Registered nurses,Saskatchewan,Other*,10,13,6,3,9,0,2,9,12,23
+Registered nurses,Alberta,Alberta (regional health authorities) (total),29736,30808,31323,31585,32104,32304,32097,32109,31533,
+Registered nurses,Alberta,South Zone,1901,2054,2120,2201,2217,2230,2215,2248,2210,
+Registered nurses,Alberta,Calgary Zone,10741,11702,12088,12120,12289,12464,12484,12576,12428,
+Registered nurses,Alberta,Central Zone,2842,3053,3113,3145,3170,3163,3131,3050,2954,
+Registered nurses,Alberta,Edmonton Zone,12411,11725,11907,11919,12116,12129,11986,11988,11695,
+Registered nurses,Alberta,North Zone,1811,1992,2094,2200,2300,2297,2255,2215,2203,
+Registered nurses,Alberta,Other*,30,282,1,0,12,21,26,32,43,
+Registered nurses,British Columbia,British Columbia (health service delivery areas) (total),29138,29762,31820,32321,31375,32980,34904,35392,35853,37313
+Registered nurses,British Columbia,East Kootenay HSDA,423,459,465,490,461,486,514,533,551,607
+Registered nurses,British Columbia,Kootenay-Boundary HSDA,480,498,524,525,528,552,596,596,602,642
+Registered nurses,British Columbia,Okanagan HSDA,2394,2482,2679,2733,2686,2815,2992,3081,3099,3231
+Registered nurses,British Columbia,Thompson/Cariboo HSDA,1356,1414,1531,1525,1469,1546,1625,1579,1601,1631
+Registered nurses,British Columbia,Fraser East HSDA,1670,1692,1836,1878,1815,1881,1953,1961,2035,2149
+Registered nurses,British Columbia,Fraser North HSDA,3393,3468,3669,3625,3477,3670,3827,3876,3953,4096
+Registered nurses,British Columbia,Fraser South HSDA,3584,3685,3876,3974,3811,3975,4243,4309,4329,4475
+Registered nurses,British Columbia,Richmond HSDA,686,706,742,724,696,770,842,812,820,851
+Registered nurses,British Columbia,Vancouver HSDA,6801,6838,7266,7482,7297,7687,8105,8321,8498,8793
+Registered nurses,British Columbia,North Shore/Coast Garibaldi HSDA,1330,1356,1448,1465,1402,1493,1610,1611,1656,1744
+Registered nurses,British Columbia,South Vancouver Island HSDA,3030,2998,3197,3259,3169,3305,3545,3599,3578,3687
+Registered nurses,British Columbia,Central Vancouver Island HSDA,1555,1605,1826,1884,1850,1900,2006,2017,2021,2114
+Registered nurses,British Columbia,North Vancouver Island HSDA,757,736,793,896,889,924,985,1038,1051,1114
+Registered nurses,British Columbia,Northwest HSDA,424,402,444,451,423,462,494,493,494,515
+Registered nurses,British Columbia,Northern Interior HSDA,943,982,1068,1088,1072,1159,1214,1239,1246,1326
+Registered nurses,British Columbia,Northeast HSDA,258,268,286,259,262,265,259,260,254,270
+Registered nurses,British Columbia,Other*,54,173,170,63,68,90,94,67,65,68
+Registered nurses,Yukon,Yukon (total),345,350,376,398,399,451,478,556,532,491
+Registered nurses,Northwest Territories/Nunavut,Northwest Territories/Nunavut (total),892,902,853,719,591,842,894,1000,965,
+Registered nurses,Jurisdictions with available data,Jurisdictions with available data (total),247215,249094,252827,254352,245820,248699,252891,255165,259276,224052
+Registered psychiatric nurses,Manitoba,Manitoba (regional health authorities) (total),802,829,864,851,834,867,904,928,950,960
+Registered psychiatric nurses,Manitoba,Winnipeg-Churchill Health Region,296,309,326,335,333,348,390,427,438,450
+Registered psychiatric nurses,Manitoba,Prairie Mountain Health Region,234,245,247,243,233,244,239,234,243,244
+Registered psychiatric nurses,Manitoba,Interlake-Eastern Health Region,160,162,176,166,167,174,170,172,173,176
+Registered psychiatric nurses,Manitoba,Northern Health Region,12,14,16,15,13,14,13,11,13,13
+Registered psychiatric nurses,Manitoba,Southern Health Region,90,91,91,86,79,75,79,74,71,75
+Registered psychiatric nurses,Manitoba,Other*,10,8,8,6,9,12,13,10,12,2
+Registered psychiatric nurses,Saskatchewan,Saskatchewan (regional health authorities) (total),746,712,687,653,621,620,640,604,599,648
+Registered psychiatric nurses,Saskatchewan,Far North Zone,5,3,3,4,5,3,2,3,2,2
+Registered psychiatric nurses,Saskatchewan,North Central West Zone,90,81,83,87,78,82,81,72,73,87
+Registered psychiatric nurses,Saskatchewan,North Central East Zone,66,60,60,56,47,46,48,45,46,48
+Registered psychiatric nurses,Saskatchewan,Saskatoon Zone,103,132,117,95,99,97,109,105,96,103
+Registered psychiatric nurses,Saskatchewan,South West Zone,112,95,90,83,68,61,62,61,55,63
+Registered psychiatric nurses,Saskatchewan,South East Zone,120,117,112,117,109,113,112,102,97,106
+Registered psychiatric nurses,Saskatchewan,Regina Zone,248,210,208,207,211,212,219,215,229,236
+Registered psychiatric nurses,Saskatchewan,Other*,2,14,14,4,4,6,7,1,1,3
+Registered psychiatric nurses,Alberta,Alberta (regional health authorities) (total),1114,1084,1093,1093,1087,1080,1066,1083,1108,1114
+Registered psychiatric nurses,Alberta,South Zone,46,42,40,39,33,32,31,34,33,31
+Registered psychiatric nurses,Alberta,Calgary Zone,212,209,200,201,196,202,191,192,203,206
+Registered psychiatric nurses,Alberta,Central Zone,337,329,337,334,336,324,319,311,317,316
+Registered psychiatric nurses,Alberta,Edmonton Zone,466,452,458,461,466,470,474,490,492,499
+Registered psychiatric nurses,Alberta,North Zone,49,41,48,49,44,45,43,47,52,55
+Registered psychiatric nurses,Alberta,Other*,4,11,10,9,12,7,8,9,11,7
+Registered psychiatric nurses,British Columbia,British Columbia (health service delivery areas) (total),2088,2231,2261,2253,,2622,2829,2936,3030,3179
+Registered psychiatric nurses,British Columbia,East Kootenay HSDA,12,13,15,14,,16,14,15,18,17
+Registered psychiatric nurses,British Columbia,Kootenay-Boundary HSDA,23,23,25,26,,29,33,35,36,38
+Registered psychiatric nurses,British Columbia,Okanagan HSDA,137,160,164,176,,183,200,209,217,226
+Registered psychiatric nurses,British Columbia,Thompson/Cariboo HSDA,99,102,106,106,,133,152,151,155,176
+Registered psychiatric nurses,British Columbia,Fraser East HSDA,174,185,176,185,,233,246,241,245,261
+Registered psychiatric nurses,British Columbia,Fraser North HSDA,444,475,471,445,,525,569,608,609,624
+Registered psychiatric nurses,British Columbia,Fraser South HSDA,356,386,380,376,,434,472,473,516,551
+Registered psychiatric nurses,British Columbia,Richmond HSDA,37,48,48,48,,41,47,50,51,56
+Registered psychiatric nurses,British Columbia,Vancouver HSDA,404,425,453,459,,523,552,588,615,640
+Registered psychiatric nurses,British Columbia,North Shore/Coast Garibaldi HSDA,85,87,96,96,,110,128,136,139,132
+Registered psychiatric nurses,British Columbia,South Vancouver Island HSDA,109,117,116,111,,120,131,133,129,134
+Registered psychiatric nurses,British Columbia,Central Vancouver Island HSDA,104,110,111,116,,131,138,151,150,154
+Registered psychiatric nurses,British Columbia,North Vancouver Island HSDA,31,31,33,31,,39,46,55,55,55
+Registered psychiatric nurses,British Columbia,Northwest HSDA,13,11,9,8,,13,13,14,14,15
+Registered psychiatric nurses,British Columbia,Northern Interior HSDA,29,33,35,34,,24,30,32,37,48
+Registered psychiatric nurses,British Columbia,Northeast HSDA,16,21,21,21,,26,24,28,31,38
+Registered psychiatric nurses,British Columbia,Other*,15,4,2,1,,42,34,17,13,14
+Registered psychiatric nurses,Yukon,Yukon (total),,,,,,,,,,
+Registered psychiatric nurses,Northwest Territories/Nunavut,Northwest Territories/Nunavut (total),,,,,,,,,,
+Registered psychiatric nurses,Jurisdictions with available data,Jurisdictions with available data (total),4750,4856,4905,4850,2542,5189,5439,5551,5687,5901
+Licensed practical nurses,Newfoundland and Labrador,Newfoundland and Labrador (regional integrated health authorities) (total),2235,2226,2294,2274,2277,2201,2299,2333,2193,2120
+Licensed practical nurses,Newfoundland and Labrador,Eastern-Urban Zone,815,788,849,837,834,784,823,833,777,686
+Licensed practical nurses,Newfoundland and Labrador,Eastern-Rural Zone,371,382,348,359,363,384,402,414,392,328
+Licensed practical nurses,Newfoundland and Labrador,Central Zone,478,485,507,512,510,470,481,498,469,410
+Licensed practical nurses,Newfoundland and Labrador,Western Zone,414,406,417,403,399,401,420,418,388,356
+Licensed practical nurses,Newfoundland and Labrador,Labrador-Grenfell Zone,157,161,172,162,166,160,170,170,162,149
+Licensed practical nurses,Newfoundland and Labrador,Other*,0,4,1,1,5,2,3,0,5,191
+Licensed practical nurses,Prince Edward Island,Prince Edward Island (total),506,531,553,531,,705,693,712,719,739
+Licensed practical nurses,Prince Edward Island,Health PEI,506,531,553,531,,705,693,712,719,739
+Licensed practical nurses,Nova Scotia,Nova Scotia (district health authorities) (total),3736,3803,3942,3982,4044,4071,4179,4344,4292,
+Licensed practical nurses,Nova Scotia,Western Zone,931,945,985,967,999,975,993,1036,1011,
+Licensed practical nurses,Nova Scotia,Northern Zone,569,583,609,622,657,693,711,751,729,
+Licensed practical nurses,Nova Scotia,Eastern Zone,930,933,950,956,946,943,971,1013,989,
+Licensed practical nurses,Nova Scotia,Central Zone,1304,1341,1398,1436,1442,1460,1504,1542,1436,
+Licensed practical nurses,Nova Scotia,Other*,2,1,0,1,0,0,0,2,127,
+Licensed practical nurses,New Brunswick,New Brunswick (total),2875,2923,2904,2963,,2671,2832,2917,3075,3085
+Licensed practical nurses,New Brunswick,Zone 1 (Moncton Area),591,597,607,630,,559,564,577,590,635
+Licensed practical nurses,New Brunswick,Zone 2 (Saint John Area),749,762,750,776,,702,605,641,650,684
+Licensed practical nurses,New Brunswick,Zone 3 (Fredericton Area),599,633,641,664,,590,834,862,955,922
+Licensed practical nurses,New Brunswick,Zone 4 (Edmundston Area),217,217,211,211,,187,182,187,196,194
+Licensed practical nurses,New Brunswick,Zone 5 (Campbellton Area),173,174,158,152,,138,64,68,84,74
+Licensed practical nurses,New Brunswick,Zone 6 (Bathurst Area),379,376,362,359,,318,279,289,298,274
+Licensed practical nurses,New Brunswick,Zone 7 (Miramichi Area),160,157,159,162,,155,149,151,155,158
+Licensed practical nurses,New Brunswick,Other*,7,7,16,9,,22,155,142,147,144
+Licensed practical nurses,Quebec,Quebec (health regions) (total),24268,24021,23644,22929,23824,25391,24513,24222,24720,25873
+Licensed practical nurses,Quebec,Bas-Saint-Laurent Region,719,720,699,663,665,683,661,632,626,651
+Licensed practical nurses,Quebec,Saguenay-Lac-Saint-Jean Region,981,913,893,860,855,895,832,819,827,842
+Licensed practical nurses,Quebec,Capitale-Nationale Region,2569,2538,2499,2378,2442,2608,2407,2296,2277,2358
+Licensed practical nurses,Quebec,Mauricie et Centre-du-Quebec Region,1466,1445,1422,1332,1372,1447,1420,1376,1398,1468
+Licensed practical nurses,Quebec,Estrie Region,1479,1492,1489,1478,1534,1583,1526,1486,1465,1495
+Licensed practical nurses,Quebec,Montreal Region,7486,7304,7029,6884,7092,7546,7321,7343,7474,7889
+Licensed practical nurses,Quebec,Outaouais Region,813,798,796,765,774,814,783,774,764,808
+Licensed practical nurses,Quebec,Abitibi-Temiscamingue Region,443,442,450,429,408,442,444,428,452,455
+Licensed practical nurses,Quebec,Cote-Nord Region,249,237,240,236,248,273,264,252,253,250
+Licensed practical nurses,Quebec,Nord-du-Quebec Region,50,49,47,43,44,42,42,39,34,34
+Licensed practical nurses,Quebec,Gaspesie-Iles-de-la-Madeleine Region,418,394,369,355,364,374,348,354,346,387
+Licensed practical nurses,Quebec,Chaudiere-Appalaches Region,1111,1093,1085,1033,1053,1093,1070,1020,1050,1098
+Licensed practical nurses,Quebec,Laval Region,942,1028,1115,1072,1145,1269,1260,1279,1344,1389
+Licensed practical nurses,Quebec,Lanaudiere Region,1012,1004,1014,1011,1080,1188,1185,1222,1282,1364
+Licensed practical nurses,Quebec,Laurentides Region,1504,1501,1492,1454,1567,1711,1692,1667,1781,1861
+Licensed practical nurses,Quebec,Monteregie Region,3011,3049,2996,2928,3174,3410,3243,3215,3321,3495
+Licensed practical nurses,Quebec,Nunavik Region,11,10,9,8,7,13,11,12,12,16
+Licensed practical nurses,Quebec,Terres-Cries-de-la-Baie-James Region,0,0,0,0,0,0,0,4,9,8
+Licensed practical nurses,Quebec,Other*,4,4,0,0,0,0,4,4,5,5
+Licensed practical nurses,Ontario,Ontario (health regions) (total),37871,40146,41670,43582,45971,47209,48021,49535,50606,51326
+Licensed practical nurses,Ontario,West Region,12425,13055,13575,14121,14820,15109,15452,15606,15927,16255
+Licensed practical nurses,Ontario,Central Region,6384,6985,7411,7965,8419,8693,8770,9409,9810,9803
+Licensed practical nurses,Ontario,Toronto Region,6676,7094,7505,7930,8432,8782,9188,9706,9862,9879
+Licensed practical nurses,Ontario,East Region,8516,9047,9207,9495,10095,10340,10371,10545,10736,11070
+Licensed practical nurses,Ontario,North East Region,2678,2740,2762,2860,2949,2980,2962,2982,2992,3042
+Licensed practical nurses,Ontario,North West Region,1167,1202,1194,1206,1247,1292,1270,1275,1268,1259
+Licensed practical nurses,Ontario,Other*,25,23,16,5,9,13,8,12,11,18
+Licensed practical nurses,Manitoba,Manitoba (regional health authorities) (total),2941,3008,3064,3113,3248,3247,3372,3193,3220,3260
+Licensed practical nurses,Manitoba,Winnipeg-Churchill Health Region,1193,1235,1248,1306,1360,1383,1462,1429,1432,1443
+Licensed practical nurses,Manitoba,Prairie Mountain Health Region,831,841,858,847,868,868,916,853,853,878
+Licensed practical nurses,Manitoba,Interlake-Eastern Health Region,282,297,303,311,325,317,314,289,308,311
+Licensed practical nurses,Manitoba,Northern Health Region,154,150,143,136,134,129,129,123,114,129
+Licensed practical nurses,Manitoba,Southern Health Region,481,485,512,513,560,549,540,493,504,492
+Licensed practical nurses,Manitoba,Other*,0,0,0,0,1,1,11,6,9,7
+Licensed practical nurses,Saskatchewan,Saskatchewan (regional health authorities) (total),3073,3188,3159,3104,3027,3275,3255,3261,3348,3381
+Licensed practical nurses,Saskatchewan,Far North Zone,54,60,57,64,36,42,37,37,45,38
+Licensed practical nurses,Saskatchewan,North Central West Zone,328,337,320,313,301,341,332,341,356,372
+Licensed practical nurses,Saskatchewan,North Central East Zone,387,398,419,406,355,407,388,387,397,384
+Licensed practical nurses,Saskatchewan,Saskatoon Zone,654,699,691,680,654,710,721,733,751,776
+Licensed practical nurses,Saskatchewan,South West Zone,350,369,365,353,293,305,299,287,289,303
+Licensed practical nurses,Saskatchewan,South East Zone,545,554,531,512,486,504,499,492,501,511
+Licensed practical nurses,Saskatchewan,Regina Zone,749,767,774,775,704,774,797,794,804,784
+Licensed practical nurses,Saskatchewan,Other*,6,4,2,1,198,192,182,190,205,213
+Licensed practical nurses,Alberta,Alberta (regional health authorities) (total),10221,10954,11504,11248,12130,13060,13661,13844,14247,14149
+Licensed practical nurses,Alberta,South Zone,888,931,971,949,993,1045,1068,1048,1082,1129
+Licensed practical nurses,Alberta,Calgary Zone,3031,3316,3580,3459,3813,4141,4399,4474,4692,4684
+Licensed practical nurses,Alberta,Central Zone,1468,1533,1610,1558,1679,1768,1824,1824,1829,1799
+Licensed practical nurses,Alberta,Edmonton Zone,3705,4002,4142,4133,4397,4754,4951,5165,5322,5227
+Licensed practical nurses,Alberta,North Zone,1129,1172,1201,1149,1198,1274,1322,1316,1307,1293
+Licensed practical nurses,Alberta,Other*,0,0,0,0,50,78,97,17,15,17
+Licensed practical nurses,British Columbia,British Columbia (health service delivery areas) (total),9993,10250,10138,10527,10773,11228,12001,12259,12344,12811
+Licensed practical nurses,British Columbia,East Kootenay HSDA,228,215,209,223,228,237,246,256,262,279
+Licensed practical nurses,British Columbia,Kootenay-Boundary HSDA,187,191,176,186,187,184,196,181,173,171
+Licensed practical nurses,British Columbia,Okanagan HSDA,1251,1283,1279,1323,1358,1414,1484,1471,1462,1501
+Licensed practical nurses,British Columbia,Thompson/Cariboo HSDA,549,566,541,561,591,623,685,681,735,731
+Licensed practical nurses,British Columbia,Fraser East HSDA,641,676,687,718,770,789,835,890,891,934
+Licensed practical nurses,British Columbia,Fraser North HSDA,1133,1194,1172,1195,1221,1261,1371,1408,1428,1528
+Licensed practical nurses,British Columbia,Fraser South HSDA,1491,1519,1529,1531,1542,1608,1701,1812,1827,1854
+Licensed practical nurses,British Columbia,Richmond HSDA,203,202,202,214,218,223,275,296,308,312
+Licensed practical nurses,British Columbia,Vancouver HSDA,1210,1162,1212,1253,1274,1339,1503,1617,1614,1752
+Licensed practical nurses,British Columbia,North Shore/Coast Garibaldi HSDA,477,497,452,505,505,551,562,550,550,564
+Licensed practical nurses,British Columbia,South Vancouver Island HSDA,892,905,921,936,937,993,1054,1032,1016,1041
+Licensed practical nurses,British Columbia,Central Vancouver Island HSDA,798,769,740,775,797,849,914,909,921,946
+Licensed practical nurses,British Columbia,North Vancouver Island HSDA,278,293,307,321,348,345,382,386,397,406
+Licensed practical nurses,British Columbia,Northwest HSDA,154,163,154,159,153,157,153,142,142,146
+Licensed practical nurses,British Columbia,Northern Interior HSDA,370,386,387,393,401,410,431,426,442,458
+Licensed practical nurses,British Columbia,Northeast HSDA,129,130,118,130,139,150,150,145,132,145
+Licensed practical nurses,British Columbia,Other*,2,99,52,104,104,95,59,57,44,43
+Licensed practical nurses,Yukon,Yukon (total),107,104,,,,,,,,
+Licensed practical nurses,Northwest Territories,Northwest Territories (total),105,115,105,104,111,135,,144,160,
+Licensed practical nurses,Nunavut,Nunavut (total),,,,,,,,,,
+Licensed practical nurses,Northwest Territories/Nunavut,Northwest Territories/Nunavut (total),,,,,,,,,,
+Licensed practical nurses,Jurisdictions with available data,Jurisdictions with available data (total),97931,101269,102977,104357,105405,113193,114826,116764,118924,116744
